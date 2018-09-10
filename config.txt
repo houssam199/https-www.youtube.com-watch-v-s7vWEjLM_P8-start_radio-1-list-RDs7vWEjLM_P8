@@ -1,6 +1,6 @@
-token=NDgxNjE3ODkzNTkxODc1NTk1.Dnd_cg.4ZAtcL7izVYYfEP8jrpD_MhCN0E
+token=NDg4NTY4NjY5MTExMTg5NTE0.DneHBQ.sQ9AYXnwQQxfZbBbbvzD5tSfMls
 owner=464046823162511400
-prefix=T
-game=LOOK AT ME BITCH
+prefix=K
+game=Tybe Khelp
 stayinchannel=true
 songinstatus=true
