@@ -1,6 +1,6 @@
 token=NDg4NTY4NjY5MTExMTg5NTE0.DneHBQ.sQ9AYXnwQQxfZbBbbvzD5tSfMls
 owner=464046823162511400
-prefix=K
+prefix=Kh
 game=Tybe Khelp
 stayinchannel=true
 songinstatus=true
